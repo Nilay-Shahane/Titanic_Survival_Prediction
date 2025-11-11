@@ -99,6 +99,6 @@ Created several new meaningful features:
 - **Version Control:** Git & GitHub  
 
 ---
-##### Author --> Nilay Shahane (AI agent , Machine learning , Full Stack Developer) , nilayshahane@gmail.com
+#### Author --> Nilay Shahane (AI agent , Machine learning , Full Stack Developer) , nilayshahane@gmail.com
 
 
